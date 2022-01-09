@@ -1,4 +1,4 @@
-# CUSTOMER DATA ANALYSIS
+# CUSTOMER DATA ANALYSIS 
 The project is based on a transaction dataset containing 3 months of transactions for 100 customers. It contains recurring transactions, salary transactions & purchases.
 
 ### TECHNIQUE:  
